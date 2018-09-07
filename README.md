@@ -14,7 +14,7 @@ Hey Front End developer. Welcome. Your mission, should you choose to accept it, 
 * The home page of your app shows a list of available stations to play. You decide how you want to order the stations and how they are displayed.
 * A user should be able to click on a station in the list.  When a station is clicked, the page shows details about the station and begins playing the stream.
 * Be creative with tags. Can you help a user decide what to listen to based on tags?
-* Once finished, send your solution files to jpena@tunein.com
+* Once finished, send your solution files to madyanthaya@tunein.com
 
 # Some tips
 
