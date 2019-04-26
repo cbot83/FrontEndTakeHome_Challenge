@@ -1,13 +1,10 @@
 // @ts-check
 import * as React from "react";
 
-import { allStations } from "./helpers/Api";
-import { Navigation } from "./components/Navigation.js";
+import Index from "./components/Index";
 
 function App() {
-  allStations();
-
-  return <Navigation />;
+  return <Index />;
 }
 
 export default App;
